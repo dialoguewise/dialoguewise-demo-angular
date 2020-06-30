@@ -1,19 +1,36 @@
-This repo demonstrates on how the Dialogue Wise Api can be integrated into an Angular app.
+<p align="center">
+<a href="https://dialoguewise.com" target="_blank"><img src="https://github.com/dialoguewise/dialoguewise-demo/blob/master/screenshots/logo.PNG?raw=true"></a>
+</p>  
+<br/>
+<p align="center">
+Headless CMS to Manage Multi-Platform Content
+</p>  
+<br/>
 
-## Integrating the API into your apps
-Use the below `NPM` package to call the Api.
+## About this repo?
+
+This is a demo app to show how you can integrate Dialogue Wise into your [Angular](https://angular.io/) apps.
+
+To install the package: 
 
 ```
 npm i dialogue-wise
 ```
 
-The dependency package `jsSHA` also needs to be installed.
+To run this repo, first run
+```
+npm install
+```
+
+and then
 
 ```
-npm i jssha
+ng serve
 ```
 
-Please refer to [app.component.ts](https://github.com/kentmz/dialoguewise-demo-angular/blob/master/src/app/app.component.ts) in the git repo which demonstrates usage of this NPM package.
+to launch the application.
+
+Please refer to [app.component.ts](https://github.com/dialoguewise/dialoguewise-demo-angular/blob/master/src/app/app.component.ts) in the git repo which demonstrates usage of this NPM package.
 
 <br/>
 **Thank you!**
