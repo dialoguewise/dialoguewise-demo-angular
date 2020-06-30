@@ -32,6 +32,8 @@ to launch the application.
 
 Please refer to [app.component.ts](https://github.com/dialoguewise/dialoguewise-demo-angular/blob/master/src/app/app.component.ts) in the git repo which demonstrates usage of this NPM package.
 
+Also, have a look at the [documentation](https://docs.dialoguewise.com/) for more details.
+
 <br/>
 **Thank you!**
 
